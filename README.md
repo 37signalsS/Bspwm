@@ -51,6 +51,12 @@ yay -S libinput-gestures gestures
   ```
   flatpak install flathub app.freelens.Freelens
   ```
+  
+- [arch-cleaner](https://github.com/antonio-foti/arch-cleaner)
+
+- [Chaotic-AUR](https://aur.chaotic.cx/docs)
+
+- [Anki](https://apps.ankiweb.net/)
 
 ## Configuration
 
